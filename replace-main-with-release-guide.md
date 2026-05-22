@@ -2,7 +2,7 @@
 
 A complete, step-by-step procedure for pointing the `main` branch at the exact same commit as the `release` branch after a successful go-live — without merging, without conflict resolution, and without risk of corrupting `main`.
 
----
+---dddd
 
 ## Table of Contents
 
